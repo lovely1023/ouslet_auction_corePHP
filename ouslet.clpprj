@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\ouslet\ouslet.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/ouslet/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/ouslet/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_category.php"/>
+		<file name="C:\xampp\htdocs\ouslet\include\header_center.php"/>
+		<file name="C:\xampp\htdocs\ouslet\include\main_menu.php"/>
+		<file name="C:\xampp\htdocs\ouslet\index.php"/>
+		<file name="C:\xampp\htdocs\ouslet\include\block_spotlight3.php"/>
+		<file name="C:\xampp\htdocs\ouslet\include\header.php"/>
+		<file name="C:\xampp\htdocs\ouslet\search.php"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_product.php"/>
+		<file name="C:\xampp\htdocs\ouslet\product\featured_product.php"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_add_product.php"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_add_product.php"/>
+		<file name="C:\xampp\htdocs\ouslet\product.php"/>
+		<file name="C:\xampp\htdocs\ouslet\product\search_product.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\xampp\htdocs\ouslet\vendor\include\header_gallery.php">
+			<error val="25;132;29;132;2001;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\vendor\include\header.php">
+			<error val="25;189;29;189;2001;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\qrcode_lib\qrrscode.php">
+			<error val="0;140;13;140;901;2;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\qrcode\qrrscode.php">
+			<error val="0;114;13;114;901;2;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\qrcode\phpqrcode.php">
+			<error val="0;2369;13;2369;901;2;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\js\plugins\magnific\magnific-popup.css">
+			<error val="2584;0;2626;0;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\js\plugins\c3charts\c3.min.css">
+			<error val="4;0;8;0;2501;1;"/>
+			<error val="4;4;8;4;2501;1;"/>
+			<error val="14;4;19;4;2501;1;"/>
+			<error val="4;5;15;5;2502;1;"/>
+			<error val="4;6;1;7;2502;1;"/>
+			<error val="4;9;9;9;2501;1;"/>
+			<error val="9;15;13;15;2501;1;"/>
+			<error val="4;16;1;17;2502;1;"/>
+			<error val="14;19;19;19;2501;1;"/>
+			<error val="4;20;1;21;2502;1;"/>
+			<error val="14;23;19;23;2501;1;"/>
+			<error val="4;24;15;24;2502;1;"/>
+			<error val="9;28;14;28;2501;1;"/>
+			<error val="4;29;1;30;2502;1;"/>
+			<error val="9;32;14;32;2501;1;"/>
+			<error val="4;33;1;34;2502;1;"/>
+			<error val="4;37;1;38;2502;1;"/>
+			<error val="4;41;15;41;2502;1;"/>
+			<error val="4;46;1;47;2502;1;"/>
+			<error val="4;51;1;52;2502;1;"/>
+			<error val="4;50;22;50;2502;1;"/>
+			<error val="4;55;15;55;2502;1;"/>
+			<error val="4;56;1;57;2502;1;"/>
+			<error val="4;60;1;61;2502;1;"/>
+			<error val="4;64;1;65;2502;1;"/>
+			<error val="4;68;30;68;2502;1;"/>
+			<error val="22;76;34;76;2501;1;"/>
+			<error val="58;76;71;76;2501;1;"/>
+			<error val="4;77;1;78;2502;1;"/>
+			<error val="4;85;18;85;2502;1;"/>
+			<error val="4;86;1;87;2502;1;"/>
+			<error val="4;90;1;91;2502;1;"/>
+			<error val="4;103;15;103;2502;1;"/>
+			<error val="4;104;20;104;2502;1;"/>
+			<error val="4;105;1;106;2502;1;"/>
+			<error val="4;154;20;154;2502;1;"/>
+			<error val="4;159;18;159;2502;1;"/>
+			<error val="4;160;1;161;2502;1;"/>
+			<error val="4;164;15;164;2502;1;"/>
+			<error val="4;169;1;170;2502;1;"/>
+			<error val="4;173;1;174;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\js\owl-carousel\owl.carousel.css">
+			<error val="4;49;45;49;2502;1;"/>
+			<error val="4;60;45;60;2502;1;"/>
+			<error val="4;68;28;68;2502;1;"/>
+			<error val="4;95;29;95;2502;1;"/>
+			<error val="4;123;45;123;2502;1;"/>
+			<error val="4;124;32;124;2502;1;"/>
+			<error val="4;172;39;172;2502;1;"/>
+			<error val="4;205;37;205;2502;1;"/>
+			<error val="4;213;36;213;2502;1;"/>
+			<error val="4;234;39;234;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\js\jquery-ui\jquery-ui.min.css">
+			<error val="810;5;832;5;2502;1;"/>
+			<error val="951;5;973;5;2502;1;"/>
+			<error val="1695;5;1717;5;2502;1;"/>
+			<error val="1831;5;1853;5;2502;1;"/>
+			<error val="2013;5;2035;5;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\include\footer.php">
+			<error val="22;108;44;108;2002;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\themecss\so_megamenu.css">
+			<error val="53;484;62;484;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\themecss\so-listing-tabs.css">
+			<error val="1;148;26;148;2502;1;"/>
+			<error val="1;150;22;150;2502;1;"/>
+			<error val="1;167;17;167;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\themecss\so-categories.css">
+			<error val="1;338;33;338;2502;1;"/>
+			<error val="1;371;33;371;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\themecss\lib.css">
+			<error val="2530;4;2570;4;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\font-awesome\css\font-awesome.min.css">
+			<error val="637;3;671;3;2502;1;"/>
+			<error val="602;3;637;3;2502;1;"/>
+			<error val="582;3;602;3;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\bootstrap\css\bootstrap.min.css">
+			<error val="137;4;163;4;2502;1;"/>
+			<error val="107;4;137;4;2502;1;"/>
+			<error val="779;4;793;4;2501;1;"/>
+			<error val="3657;4;3691;4;2502;1;"/>
+			<error val="3622;4;3657;4;2502;1;"/>
+			<error val="15315;4;15357;4;2502;1;"/>
+			<error val="33949;4;33993;4;2502;1;"/>
+			<error val="45300;4;45330;4;2502;1;"/>
+			<error val="69231;4;69264;4;2502;1;"/>
+			<error val="85763;4;85767;4;2502;1;"/>
+			<error val="87188;4;87241;4;2502;1;"/>
+			<error val="107494;4;107527;4;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\theme.css">
+			<error val="4;325;36;325;2502;1;"/>
+			<error val="4;1150;36;1150;2502;1;"/>
+			<error val="2;1842;27;1842;2502;1;"/>
+			<error val="2;2836;21;2836;2502;1;"/>
+			<error val="10;4113;22;4113;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\css\responsive.css">
+			<error val="4;322;36;322;2502;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\admin\include\header.php">
+			<error val="22;187;26;187;2001;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\search.php">
+			<error val="22;279;44;279;2002;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ouslet\contact.php">
+			<error val="322;99;338;99;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Authentication\AccessTokenMetadata.php">
+			<todo name="todo v6: Remove this method" pos="8;93"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Facebook.php">
+			<todo name="@todo v6: Throw an InvalidArgumentException if &quot;default_graph_version&quot; is not set" pos="9;161"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookBatchRequest.php">
+			<todo name="@TODO Does Graph support multiple uploads on one endpoint" pos="9;166"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookBatchResponse.php">
+			<todo name="@TODO With PHP 5.5 support, this becomes array_column($response['headers'], 'value', 'name')" pos="9;104"/>
+			<todo name="TODO replace with array_column() when PHP 5.5 is supported." pos="8;157"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookRequest.php">
+			<todo name="@TODO Refactor code above with this" pos="9;337"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookResponse.php">
+			<todo name="@TODO Remove this after Graph 2.0 is no longer supported" pos="13;243"/>
+			<todo name="todo v6: Remove this method" pos="8;268"/>
+			<todo name="todo v6: Remove this method" pos="8;386"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\Collection.php">
+			<todo name="todo v6: Remove this method" pos="8;83"/>
+			<todo name="todo v6: Remove this method" pos="8;106"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphList.php">
+			<todo name="todo v6: Remove this class" pos="4;31"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphNode.php">
+			<todo name="TODO Add auto-casting to AccessToken entities." pos="8;51"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphObject.php">
+			<todo name="todo v6: Remove this class" pos="4;31"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphObjectFactory.php">
+			<todo name="todo v6: Remove this class" pos="4;33"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\autoload.php">
+			<todo name="@todo v6: Remove support for 'FACEBOOK_SDK_V4_SRC_DIR'" pos="5;52"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_OAuth2.php">
+			<todo name="TODO(beaton): check issuer field" pos="5;431"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_P12Signer.php">
+			<todo name="TODO(beaton): is this part of the contract for the openssl_pkcs12_read" pos="5;42"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp\htdocs\ouslet\vendor\js\jquery-1.6.2.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\include\header_gallery.php" crc="1619426192"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\include\header.php" crc="1624131751"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\include\footer.php" crc="1617295540"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\skin\default_skin\css\theme.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\utility\utility.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\js\bootstrap-editable.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js-bootstrap.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\inputs\typeaheadjs\typeaheadjs.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\inputs\address\address.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\inputs\address\address.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\xeditable\css\bootstrap-editable.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\waypoints\jquery.waypoints.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\typeahead\typeahead.bundle.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\tagsinput\tagsinput.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\tagmanager\tagmanager.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\tagmanager\tagmanager.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\summernote\summernote.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\summernote\summernote.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\sparkline\jquery.sparkline.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\slick\slick.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\slick\slick.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\select2\css\core.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\select2\select2.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\pnotify\pnotify.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\nprogress\nprogress.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\nestable\nestable.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\nestable\jquery.nestable.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\moment\moment.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\mixitup\jquery.mixitup.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\maxlength\bootstrap-maxlength.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\markdown\to-markdown.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\markdown\markdown.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\markdown\bootstrap-markdown.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\map\gmaps.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\magnific\magnific-popup.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\magnific\jquery.magnific-popup.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\ladda\ladda.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\ladda\ladda.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jvectormap\assets\jquery-jvectormap-world-mill-en.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jvectormap\assets\jquery-jvectormap-us-lcc-en.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jvectormap\jquery.jvectormap.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jquerymask\jquery.maskedinput.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jqueryflot\jquery.flot.tooltip.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jqueryflot\jquery.flot.resize.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jqueryflot\jquery.flot.pie.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\jqueryflot\jquery.flot.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\imagezoom\jquery.elevatezoom.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\holder\holder.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\highlight\styles\googlecode.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\highlight\styles\github.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\highlight\highlight.pack.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\highcharts\highcharts.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\gmap\ui\jquery.ui.map.extensions.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\gmap\jquery.ui.map.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\globalize\globalize.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fullcalendar\lib\moment.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fullcalendar\fullcalendar.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fullcalendar\fullcalendar.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\footable\js\footable.filter.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\footable\js\footable.all.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\footable\css\footable.core.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fileupload\fileupload.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\skin-win8\ui.fancytree.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\extensions\jquery.fancytree.filter.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\extensions\jquery.fancytree.edit.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\extensions\jquery.fancytree.dnd.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\extensions\jquery.fancytree.columnview.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\extensions\jquery.fancytree.childcounter.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\fancytree\jquery.fancytree-all.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\duallistbox\jquery.bootstrap-duallistbox.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\dropzone\css\dropzone.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\dropzone\dropzone.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\daterange\daterangepicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\daterange\daterangepicker.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datepicker\js\bootstrap-datetimepicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datepicker\css\bootstrap-datetimepicker.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\media\js\jquery.dataTables.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\media\js\dataTables.bootstrap.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\media\css\dataTables.bootstrap.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\extensions\TableTools\js\dataTables.tableTools.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\extensions\Editor\css\dataTables.editor.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\extensions\ColReorder\js\dataTables.colReorder.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\datatables\extensions\ColReorder\css\dataTables.colReorder.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\cropper\cropper.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\countdown\jquery.plugin.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\countdown\jquery.countdown.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\colorpicker\js\bootstrap-colorpicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\colorpicker\css\bootstrap-colorpicker.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\ckeditor\ckeditor.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\circles\circles.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\canvasbg\canvasbg.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\c3charts\d3.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\c3charts\c3.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\plugins\c3charts\c3.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\widgets-tools.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\widgets-panels.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-interface-progress-loader.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-interface-icons.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-interface-buttons.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-treeview.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-nestable.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-image-tools.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-file-uploaders.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-file-notifications.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-editors.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-content-sliders.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\user-forms-additional-inputs.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\tables-data.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\tables-basic.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\sales-stats-purchases.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\sales-stats-products.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\sales-stats-clients.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\maps-vector.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\maps-full.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\maps-basic.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\management-tools-panels.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\management-tools-modals.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\management-tools-dock.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\forms-wizard.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\forms-widgets.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\forms-validation.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\forms-layouts.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\email-layouts.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\dashboard2.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\dashboard1.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\basic-timeline.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\basic-messages.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\basic-gallery.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\basic-calendar.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\pages\allcp_forms-elements.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\jquery\jquery_ui\jquery-ui.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\jquery\jquery-1.11.3.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\jquery\jquery-1.11.1.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\charts\highcharts.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\charts\flot.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\charts\d3.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\widgets_sidebar.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\widgets.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\demo\demo.js" crc="1617295354"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\js\main.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\fonts\zocial\zocial.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\fonts\stateface\stateface.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\fonts\octicons\octicons.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\fonts\iconsweets\iconsweets.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\fonts\icomoon\icomoon.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery.validate.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery.steps.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery.stepper.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery.spectrum.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery-ui-monthpicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\jquery-ui-datepicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\js\additional-methods.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\css\forms.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\assets\allcp\forms\css\forms.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\withdraw_request_list.php" crc="1619750436"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\withdraw_request_balance.php" crc="1619792814"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\view_cus_details.php" crc="1620845116"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\vendor_qa.php" crc="1615357102"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\vendor_login.php" crc="1617295494"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\vendor_details.php" crc="1615337726"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\utility-login.php" crc="1617295458"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\upload_csv.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\update_vr_qa.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\update_vendor_registration.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\update_vendor_profile.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\update_pro_qa.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\update_image.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\test.txt" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\test.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\subscribe_package.php" crc="1618693068"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\shipment_auction_approve.php" crc="1619498886"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\shipment_approve.php" crc="1619466950"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ship_product_listing.php" crc="1618694156"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ship_auction_product_listing.php" crc="1619498560"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\return_product_details.php" crc="1617810502"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\return_product.php" crc="1620898568"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\retrn_aceptd_by_vndr.php" crc="1620898528"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\razor_verify.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\product_qa.php" crc="1615357138"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\product_listing.php" crc="1621053570"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\product_details.php" crc="1616628220"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\photo_delete.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\paypal.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\my_balance.php" crc="1618693094"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\logout.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\index.php" crc="1619498390"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\gallery.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\function.php" crc="1620879000"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\forget_pass.php" crc="1617295406"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\fetch_sub_cat.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\fetch_city.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\fetch_category.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\edit_product.php" crc="1621075754"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\download.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\delete_vr_question.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\delete_product.php" crc="1619498326"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\delete_pro_question.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\customer_details.php" crc="1621074822"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\config.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\commission.php" crc="1620268130"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\change_password.php" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\cancel_order.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\auction_product_listing.php" crc="1620101538"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\auction_details.php" crc="1616349878"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\answer_vr_question.php" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\answer_pro_question.php" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_withdraw_request.php" crc="1619792846"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_update_product.php" crc="1620949298"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_update_password.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_login_vendr.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_forget_pass.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\ajax_add_product.php" crc="1624993594"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\add_product_by_excel.php" crc="1615338686"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\add_product.php" crc="1623691680"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor\active_package_item.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\SQL\SQL.sql" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\ReadMe\ReadMe.txt" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrtools.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrsvg.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrsplit.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrspec.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrrscode.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrmask.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrlib.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrinput.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrimage.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrencode.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrconst.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrconfig.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrcanvas.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrbitstream.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode_lib\qrarea.php" crc="1621484620"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\tools\merged_header.php" crc="1282107979"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\tools\merged_config.php" crc="1282107979"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\tools\merge.php" crc="1282107979"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\bindings\tcpdf\qrcode.php" crc="1282107978"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrtools.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrsplit.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrspec.php" crc="1282108304"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrrscode.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrmask.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrlib.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrinput.php" crc="1286478206"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrimage.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrencode.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrconst.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrconfig.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\qrbitstream.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\phpqrcode.php" crc="1286478728"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\index.php" crc="1282107983"/>
+		<file name="C:\xampp\htdocs\ouslet\qrcode\config.php" crc="1621515917"/>
+		<file name="C:\xampp\htdocs\ouslet\product\vendor_listing.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\product\searched_product.php" crc="1620090134"/>
+		<file name="C:\xampp\htdocs\ouslet\product\search_product.php" crc="1623926736"/>
+		<file name="C:\xampp\htdocs\ouslet\product\related_product.php" crc="1618891274"/>
+		<file name="C:\xampp\htdocs\ouslet\product\product_post_by_vendor.php" crc="1618674324"/>
+		<file name="C:\xampp\htdocs\ouslet\product\featured_product.php" crc="1623115326"/>
+		<file name="C:\xampp\htdocs\ouslet\product\feature_product_header.php" crc="1618895044"/>
+		<file name="C:\xampp\htdocs\ouslet\product\collection.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\product\auction_product.php" crc="1623115348"/>
+		<file name="C:\xampp\htdocs\ouslet\product\advertise.php" crc="1622896239"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_Utils.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_ServiceResource.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_Service.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_Model.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_MediaFileUpload.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\service\Google_BatchRequest.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\io\Google_REST.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\io\Google_IO.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\io\Google_HttpRequest.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\io\Google_CurlIO.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\io\Google_CacheParser.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\external\URITemplateParser.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_YoutubeService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_WebfontsService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_UrlshortenerService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_TranslateService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_TasksService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_TaskqueueService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_StorageService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_SiteVerificationService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_ShoppingService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_PredictionService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_PlusService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_PlusMomentsService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_PagespeedonlineService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_OrkutService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_Oauth2Service.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_ModeratorService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_LicensingService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_LatitudeService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_GanService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_FusiontablesService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_FreebaseService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_DriveService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_CustomsearchService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_ComputeService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_CalendarService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_BooksService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_BloggerService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_BigqueryService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_AnalyticsService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_AdsenseService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_AdsensehostService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\contrib\Google_AdexchangebuyerService.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\cache\Google_MemcacheCache.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\cache\Google_FileCache.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\cache\Google_Cache.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\cache\Google_ApcCache.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_Verifier.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_Signer.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_PemVerifier.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_P12Signer.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_OAuth2.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_LoginTicket.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_AuthNone.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_Auth.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\auth\Google_AssertionCredentials.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\Google_Client.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google-api-php-client\config.php" crc="1550390676"/>
+		<file name="C:\xampp\htdocs\ouslet\login_google\google_config.php" crc="1618153098"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Url\UrlDetectionInterface.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Url\FacebookUrlManipulator.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Url\FacebookUrlDetectionHandler.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\UrandomPseudoRandomStringGenerator.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\RandomBytesPseudoRandomStringGenerator.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\PseudoRandomStringGeneratorTrait.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\PseudoRandomStringGeneratorInterface.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\PseudoRandomStringGeneratorFactory.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\OpenSslPseudoRandomStringGenerator.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PseudoRandomString\McryptPseudoRandomStringGenerator.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PersistentData\PersistentDataInterface.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PersistentData\PersistentDataFactory.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PersistentData\FacebookSessionPersistentDataHandler.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\PersistentData\FacebookMemoryPersistentDataHandler.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\HttpClientsFactory.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookStreamHttpClient.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookStream.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookHttpClientInterface.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookGuzzleHttpClient.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookCurlHttpClient.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\HttpClients\FacebookCurl.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Http\RequestBodyUrlEncoded.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Http\RequestBodyMultipart.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Http\RequestBodyInterface.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Http\GraphRawResponse.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Helpers\FacebookSignedRequestFromInputHelper.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Helpers\FacebookRedirectLoginHelper.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Helpers\FacebookPageTabHelper.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Helpers\FacebookJavaScriptHelper.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Helpers\FacebookCanvasHelper.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphUser.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphSessionInfo.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphPicture.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphPage.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphObjectFactory.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphObject.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphNodeFactory.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphNode.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphLocation.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphList.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphGroup.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphEvent.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphEdge.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphCoverPhoto.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphApplication.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphAlbum.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\GraphAchievement.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\Collection.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\GraphNodes\Birthday.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FileUpload\Mimetypes.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FileUpload\FacebookVideo.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FileUpload\FacebookTransferChunk.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FileUpload\FacebookResumableUploader.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FileUpload\FacebookFile.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookThrottleException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookServerException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookSDKException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookResumableUploadException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookResponseException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookOtherException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookClientException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookAuthorizationException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Exceptions\FacebookAuthenticationException.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Authentication\OAuth2Client.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Authentication\AccessTokenMetadata.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Authentication\AccessToken.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\SignedRequest.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\polyfills.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookResponse.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookRequest.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookClient.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookBatchResponse.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookBatchRequest.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\FacebookApp.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\Facebook.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\src\Facebook\autoload.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\assets\css\style.css" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\view.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\logout.php" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\index.php" crc="1618261162"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\config.php" crc="1618414448"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\authenticate.php" crc="1618949948"/>
+		<file name="C:\xampp\htdocs\ouslet\login_facebook\_config.yml" crc="1514793076"/>
+		<file name="C:\xampp\htdocs\ouslet\language\Spanish.php" crc="1615434622"/>
+		<file name="C:\xampp\htdocs\ouslet\language\English.php" crc="1616025680"/>
+		<file name="C:\xampp\htdocs\ouslet\js\unveil\jquery.unveil.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\toppanel.js" crc="1623786162"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\so_megamenu.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\libs.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\cpanel.js" crc="1623782175"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\application.js" crc="1619746284"/>
+		<file name="C:\xampp\htdocs\ouslet\js\themejs\addtocart.js" crc="1618675870"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\js\bootstrap-editable.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js-bootstrap.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\inputs\typeaheadjs\typeaheadjs.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\inputs\address\address.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\inputs\address\address.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\xeditable\css\bootstrap-editable.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\waypoints\jquery.waypoints.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\typeahead\typeahead.bundle.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\tagsinput\tagsinput.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\tagmanager\tagmanager.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\tagmanager\tagmanager.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\summernote\summernote.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\summernote\summernote.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\sparkline\jquery.sparkline.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\slick\slick.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\slick\slick.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\select2\css\core.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\select2\select2.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\pnotify\pnotify.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\nprogress\nprogress.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\nestable\nestable.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\nestable\jquery.nestable.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\moment\moment.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\mixitup\jquery.mixitup.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\maxlength\bootstrap-maxlength.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\markdown\to-markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\markdown\markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\markdown\bootstrap-markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\map\gmaps.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\magnific\magnific-popup.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\magnific\jquery.magnific-popup.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\ladda\ladda.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\ladda\ladda.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jvectormap\assets\jquery-jvectormap-world-mill-en.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jvectormap\assets\jquery-jvectormap-us-lcc-en.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jvectormap\jquery.jvectormap.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jquerymask\jquery.maskedinput.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jqueryflot\jquery.flot.tooltip.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jqueryflot\jquery.flot.resize.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jqueryflot\jquery.flot.pie.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\jqueryflot\jquery.flot.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\imagezoom\jquery.elevatezoom.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\holder\holder.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\highlight\styles\googlecode.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\highlight\styles\github.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\highlight\highlight.pack.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\highcharts\highcharts.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\gmap\ui\jquery.ui.map.extensions.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\gmap\jquery.ui.map.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\globalize\globalize.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fullcalendar\lib\moment.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fullcalendar\fullcalendar.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fullcalendar\fullcalendar.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\footable\js\footable.filter.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\footable\js\footable.all.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\footable\css\footable.core.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fileupload\fileupload.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\skin-win8\ui.fancytree.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\extensions\jquery.fancytree.filter.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\extensions\jquery.fancytree.edit.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\extensions\jquery.fancytree.dnd.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\extensions\jquery.fancytree.columnview.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\extensions\jquery.fancytree.childcounter.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\fancytree\jquery.fancytree-all.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\duallistbox\jquery.bootstrap-duallistbox.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\dropzone\css\dropzone.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\dropzone\dropzone.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\daterange\daterangepicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\daterange\daterangepicker.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datepicker\js\bootstrap-datetimepicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datepicker\css\bootstrap-datetimepicker.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\media\js\jquery.dataTables.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\media\js\dataTables.bootstrap.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\media\css\dataTables.bootstrap.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\extensions\TableTools\js\dataTables.tableTools.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\extensions\Editor\css\dataTables.editor.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\extensions\ColReorder\js\dataTables.colReorder.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\datatables\extensions\ColReorder\css\dataTables.colReorder.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\cropper\cropper.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\countdown\jquery.plugin.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\countdown\jquery.countdown.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\colorpicker\js\bootstrap-colorpicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\colorpicker\css\bootstrap-colorpicker.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\ckeditor\ckeditor.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\circles\circles.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\canvasbg\canvasbg.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\c3charts\d3.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\c3charts\c3.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\plugins\c3charts\c3.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\js\owl-carousel\owl.video.play.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\owl-carousel\owl.carousel.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\owl-carousel\owl.carousel.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\lightslider\lightslider.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\lightslider\lightslider.css" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\js\jquery-ui\jquery-ui.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\jquery-ui\jquery-ui.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\dcjqaccordion\jquery.dcjqaccordion.2.8.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\datetimepicker\moment.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\datetimepicker\bootstrap-datetimepicker.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\datetimepicker\bootstrap-datetimepicker.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\countdown\jquery.countdown.min.js" crc="1619945438"/>
+		<file name="C:\xampp\htdocs\ouslet\js\jquery-2.2.4.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\js\bootstrap.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\include\side_menu_close.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\include\side_menu.php" crc="1623786657"/>
+		<file name="C:\xampp\htdocs\ouslet\include\main_menu.php" crc="1623787809"/>
+		<file name="C:\xampp\htdocs\ouslet\include\header_center.php" crc="1623176808"/>
+		<file name="C:\xampp\htdocs\ouslet\include\header.php" crc="1624942448"/>
+		<file name="C:\xampp\htdocs\ouslet\include\footer_search.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\include\footer.php" crc="1623167664"/>
+		<file name="C:\xampp\htdocs\ouslet\include\collection.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\include\block_spotlight3.php" crc="1623773817"/>
+		<file name="C:\xampp\htdocs\ouslet\include\block_spotlight.php" crc="1623431003"/>
+		<file name="C:\xampp\htdocs\ouslet\image\477.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\themecss\so_megamenu.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\themecss\so-listing-tabs.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\themecss\so-categories.css" crc="1619003098"/>
+		<file name="C:\xampp\htdocs\ouslet\css\themecss\lib.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\themecss\cpanel.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\plus.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\minus.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\icon.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\bk.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\arrow.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\images\301.html" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\font-awesome\css\font-awesome.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\bootstrap\css\bootstrap.min.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\theme.css" crc="1623785177"/>
+		<file name="C:\xampp\htdocs\ouslet\css\responsive.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\home4.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\home3.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\css\home2.css" crc="1623785031"/>
+		<file name="C:\xampp\htdocs\ouslet\cron_files\renew_auction.php" crc="1621847666"/>
+		<file name="C:\xampp\htdocs\ouslet\cron_files\config.php" crc="1620262858"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\js\jquery-1.6.2.min.js" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\include\header.php" crc="1624131763"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\include\footer_date.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\include\footer.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\skin\default_skin\css\theme.css" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\utility\utility.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\js\bootstrap-editable.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js-bootstrap.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\inputs\typeaheadjs\lib\typeahead.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\inputs\typeaheadjs\typeaheadjs.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\inputs\address\address.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\inputs\address\address.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\xeditable\css\bootstrap-editable.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\waypoints\jquery.waypoints.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\typeahead\typeahead.bundle.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\tagsinput\tagsinput.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\tagmanager\tagmanager.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\tagmanager\tagmanager.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\summernote\summernote.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\summernote\summernote.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\sparkline\jquery.sparkline.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\slick\slick.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\slick\slick.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\select2\css\core.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\select2\select2.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\pnotify\pnotify.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\nprogress\nprogress.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\nestable\nestable.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\nestable\jquery.nestable.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\moment\moment.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\mixitup\jquery.mixitup.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\maxlength\bootstrap-maxlength.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\markdown\to-markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\markdown\markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\markdown\bootstrap-markdown.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\map\gmaps.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\magnific\magnific-popup.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\magnific\jquery.magnific-popup.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\ladda\ladda.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\ladda\ladda.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jvectormap\assets\jquery-jvectormap-world-mill-en.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jvectormap\assets\jquery-jvectormap-us-lcc-en.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jvectormap\jquery.jvectormap.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jquerymask\jquery.maskedinput.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jqueryflot\jquery.flot.tooltip.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jqueryflot\jquery.flot.resize.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jqueryflot\jquery.flot.pie.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\jqueryflot\jquery.flot.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\imagezoom\jquery.elevatezoom.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\holder\holder.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\highlight\styles\googlecode.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\highlight\styles\github.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\highlight\highlight.pack.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\highcharts\highcharts.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\gmap\ui\jquery.ui.map.extensions.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\gmap\jquery.ui.map.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\globalize\globalize.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fullcalendar\lib\moment.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fullcalendar\fullcalendar.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fullcalendar\fullcalendar.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\footable\js\footable.filter.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\footable\js\footable.all.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\footable\css\footable.core.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fileupload\fileupload.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\skin-win8\ui.fancytree.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\extensions\jquery.fancytree.filter.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\extensions\jquery.fancytree.edit.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\extensions\jquery.fancytree.dnd.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\extensions\jquery.fancytree.columnview.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\extensions\jquery.fancytree.childcounter.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\fancytree\jquery.fancytree-all.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\duallistbox\jquery.bootstrap-duallistbox.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\dropzone\css\dropzone.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\dropzone\dropzone.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\daterange\daterangepicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\daterange\daterangepicker.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datepicker\js\bootstrap-datetimepicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datepicker\css\bootstrap-datetimepicker.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\media\js\jquery.dataTables.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\media\js\dataTables.bootstrap.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\media\css\dataTables.bootstrap.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\extensions\TableTools\js\dataTables.tableTools.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\extensions\Editor\css\dataTables.editor.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\extensions\ColReorder\js\dataTables.colReorder.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\datatables\extensions\ColReorder\css\dataTables.colReorder.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\cropper\cropper.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\countdown\jquery.plugin.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\countdown\jquery.countdown.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\colorpicker\js\bootstrap-colorpicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\colorpicker\css\bootstrap-colorpicker.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\ckeditor\ckeditor.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\circles\circles.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\canvasbg\canvasbg.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\c3charts\d3.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\c3charts\c3.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\plugins\c3charts\c3.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\widgets-tools.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\widgets-panels.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-interface-progress-loader.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-interface-icons.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-interface-buttons.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-treeview.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-nestable.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-image-tools.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-file-uploaders.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-file-notifications.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-editors.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-content-sliders.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\user-forms-additional-inputs.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\tables-data.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\tables-basic.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\sales-stats-purchases.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\sales-stats-products.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\sales-stats-clients.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\maps-vector.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\maps-full.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\maps-basic.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\management-tools-panels.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\management-tools-modals.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\management-tools-dock.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\forms-wizard.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\forms-widgets.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\forms-validation.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\forms-layouts.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\email-layouts.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\dashboard2.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\dashboard1.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\basic-timeline.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\basic-messages.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\basic-gallery.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\basic-calendar.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\pages\allcp_forms-elements.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\jquery\jquery_ui\jquery-ui.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\jquery\jquery-1.11.3.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\jquery\jquery-1.11.1.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\charts\highcharts.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\charts\flot.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\charts\d3.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\widgets_sidebar.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\widgets.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\demo\demo.js" crc="1617295244"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\js\main.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\fonts\zocial\zocial.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\fonts\stateface\stateface.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\fonts\octicons\octicons.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\fonts\iconsweets\iconsweets.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\fonts\icomoon\icomoon.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery.validate.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery.steps.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery.stepper.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery.spectrum.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery-ui-monthpicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\jquery-ui-datepicker.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\js\additional-methods.min.js" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\css\forms.min.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\assets\allcp\forms\css\forms.css" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\withdraw_request.php" crc="1619750386"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\withdraw_details.php" crc="1619762996"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\view_review.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\view_cus_details.php" crc="1620844988"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\vendor_listing.php" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\vendor_details.php" crc="1615357146"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\utility-login.php" crc="1617295140"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\upload_csv.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_terms.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_site_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_mail_settings.php" crc="1619789160"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_hiw.php" crc="1608763502"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_forsellers.php" crc="1608771408"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_form_field.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_forbuyers.php" crc="1608770468"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_features.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_faq.php" crc="1615485880"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_contact_us.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_contact_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_blog.php" crc="1608841714"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\update_about_us.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\transfer_to_vendor.php" crc="1621074748"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\transfer_auction_money.php" crc="1621074678"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\transaction_approve.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\test.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\terms_services.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\social_media_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\siteSettings.php" crc="1615334802"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\shipment_approve_auction.php" crc="1619495454"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\shipment_approve.php" crc="1618706000"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\send_mail_structure.php" crc="1619789136"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\sale_report.php" crc="1619836066"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\sale_amount_report.php" crc="1621049632"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\reward_approve.php" crc="1621821198"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\review_approve.php" crc="1621282620"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\return_product_details.php" crc="1620922128"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\return_product.php" crc="1620922292"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\report.php" crc="1615356842"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_stock_report.php" crc="1619494612"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_sale_report.php" crc="1621049074"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_return_report.php" crc="1621052606"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_listing1.php" crc="1616628590"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_listing.php" crc="1621049240"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\product_details.php" crc="1616628426"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\photo_delete.php" crc="1616242858"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\photo_approve.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\move_stock.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\membershipPlan.php" crc="1615464976"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\logout.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\index.php" crc="1621395614"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\how_it_works.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\get_product_id.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\gallery.php" crc="1620825254"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\gallery - old.php" crc="1615330770"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\function.php" crc="1620878954"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\for_sellers.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\for_buyers.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\fetch_sub_cat.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\fetch_city.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\fetch_category.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_terms.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_social_media.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_site_settings_logo.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_site_settings_country.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_site_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_product.php" crc="1621075974"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_package.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_method.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_mail_settings.php" crc="1619789100"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_home.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_hiw.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_forsellers.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_forbuyers.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_features.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_faq.php" crc="1615485968"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_contact_us.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_contact_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_commision_settings.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_blog.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_admin_settings_logo.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_account.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\edit_about.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\download.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\demo_excel.php" crc="1616628656"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_vendor.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_user.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_terms.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_review.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_product.php" crc="1619494030"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_method.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_faq.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_customer.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_account.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\delete_about.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\customer_listing.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\customer_details.php" crc="1621074588"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\contact_us.php" crc="1615333822"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\config.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\commission.php" crc="1619836040"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\change_vendor_password.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\change_password.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\change_customer_password.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\cancel_order.php" crc="1605983562"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\blog.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\all_photos.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_withdraw_change_date.php" crc="1619762740"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_vendor_registration.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_user_details.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_update_vendor_password.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_update_product.php" crc="1620949222"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_update_password.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_update_customer_password.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_update_currency.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_top_search_approve.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_submit_coupon.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_stock_check.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_send_msg_vendor.php" crc="1620899178"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_return_approve_date.php" crc="1621052710"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_properties_details.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_post_slider.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_post_banner.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_post_advertisement.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_package_submit.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_move_stock.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_money_to_vendor_auction.php" crc="1620183090"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_money_to_vendor.php" crc="1619483958"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_login.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_fetch_product.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_fetch_email.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_edit_shipment_by.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_edit_currency.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_approve_best_story.php" crc="1621343660"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_addpost.php" crc="1608856598"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_add_product.php" crc="1624993534"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_add_currency.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\ajax_add_best_story.php" crc="1621333312"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_settings.php" crc="1615334844"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_vendor.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_slider.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_review.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_return_product.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_properties.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_product.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approved_customer.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approve_banner.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\admin_approve_advertisement.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_weight_unit.php" crc="1615470680"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_vendor.php" crc="1615329682"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_weight_unit.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_size_unit.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_country.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_color.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_category.php" crc="1615748932"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_update_brand.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_slider.php" crc="1623410323"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_size_unit.php" crc="1615470988"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_product_by_excel.php" crc="1615338726"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_product.php" crc="1621283416"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_post.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_payment_method.php" crc="1621074458"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_news_letter.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_latest_news.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_form_field.php" crc="1605983560"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_features.php" crc="1615485342"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_faq.php" crc="1615485632"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_currency.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_coupon.php" crc="1621074216"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_country.php" crc="1615468874"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_color.php" crc="1615470096"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_category.php" crc="1623755367"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_brand.php" crc="1621283822"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_best_story.php" crc="1621333296"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_banner.php" crc="1618693164"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_advertisement.php" crc="1618693184"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\add_account.php" crc="1621074040"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\active_package_item.php" crc="1616046482"/>
+		<file name="C:\xampp\htdocs\ouslet\admin\about_us.php" crc="1615357144"/>
+		<file name="C:\xampp\htdocs\ouslet\.well-known\acme-challenge\.htaccess" crc="1604425498"/>
+		<file name="C:\xampp\htdocs\ouslet\won_auction.php" crc="1620270742"/>
+		<file name="C:\xampp\htdocs\ouslet\wishlist.php" crc="1622886359"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor_review.php" crc="1615356814"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor_register.php" crc="1621194174"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor_question_answer.php" crc="1615356802"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor_details.php" crc="1605983570"/>
+		<file name="C:\xampp\htdocs\ouslet\vendor.php" crc="1605983570"/>
+		<file name="C:\xampp\htdocs\ouslet\update_profile.php" crc="1621648657"/>
+		<file name="C:\xampp\htdocs\ouslet\testing.php" crc="1605983570"/>
+		<file name="C:\xampp\htdocs\ouslet\terms_condition.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\set_vendor.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\set_add2wish.php" crc="1619044596"/>
+		<file name="C:\xampp\htdocs\ouslet\set_add2compare.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\set_add2cart.php" crc="1621488297"/>
+		<file name="C:\xampp\htdocs\ouslet\send_mail.php" crc="1609121746"/>
+		<file name="C:\xampp\htdocs\ouslet\search.php" crc="1619837664"/>
+		<file name="C:\xampp\htdocs\ouslet\search - old.php" crc="1615431898"/>
+		<file name="C:\xampp\htdocs\ouslet\review.php" crc="1615455102"/>
+		<file name="C:\xampp\htdocs\ouslet\remove_wish.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\remove_compare.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\remove_cart.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\register_detail.php" crc="1620844922"/>
+		<file name="C:\xampp\htdocs\ouslet\register.php" crc="1621136944"/>
+		<file name="C:\xampp\htdocs\ouslet\quickview.php" crc="1624131387"/>
+		<file name="C:\xampp\htdocs\ouslet\question_answer.php" crc="1615356784"/>
+		<file name="C:\xampp\htdocs\ouslet\purchase_auction.php" crc="1619780138"/>
+		<file name="C:\xampp\htdocs\ouslet\product_search.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\product_feature.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\product.php" crc="1623172527"/>
+		<file name="C:\xampp\htdocs\ouslet\phpinfo-old-not-needed.php" crc="1605983568"/>
+		<file name="C:\xampp\htdocs\ouslet\paypal_auction.php" crc="1621068200"/>
+		<file name="C:\xampp\htdocs\ouslet\paypal.php" crc="1620987968"/>
+		<file name="C:\xampp\htdocs\ouslet\order-information.php" crc="1618890466"/>
+		<file name="C:\xampp\htdocs\ouslet\order-history.php" crc="1621899871"/>
+		<file name="C:\xampp\htdocs\ouslet\my_bid.php" crc="1620176240"/>
+		<file name="C:\xampp\htdocs\ouslet\login.php" crc="1619748692"/>
+		<file name="C:\xampp\htdocs\ouslet\index.php" crc="1615901880"/>
+		<file name="C:\xampp\htdocs\ouslet\index-old.html" crc="1604726982"/>
+		<file name="C:\xampp\htdocs\ouslet\how_it_works.php" crc="1608766534"/>
+		<file name="C:\xampp\htdocs\ouslet\get_value.php" crc="1619837696"/>
+		<file name="C:\xampp\htdocs\ouslet\function.php" crc="1620878854"/>
+		<file name="C:\xampp\htdocs\ouslet\forget_pass.php" crc="1615357142"/>
+		<file name="C:\xampp\htdocs\ouslet\for_sellers.php" crc="1608771986"/>
+		<file name="C:\xampp\htdocs\ouslet\for_buyers.php" crc="1608766544"/>
+		<file name="C:\xampp\htdocs\ouslet\fetch_state.php" crc="1621194118"/>
+		<file name="C:\xampp\htdocs\ouslet\fetch_category_field1.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\fetch_category_field.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\fetch_category.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\faq.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\contact.php" crc="1609121862"/>
+		<file name="C:\xampp\htdocs\ouslet\config.php" crc="1621398225"/>
+		<file name="C:\xampp\htdocs\ouslet\compare.php" crc="1618675920"/>
+		<file name="C:\xampp\htdocs\ouslet\checkout.php" crc="1621623160"/>
+		<file name="C:\xampp\htdocs\ouslet\check_login.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\change_password.php" crc="1615357142"/>
+		<file name="C:\xampp\htdocs\ouslet\change_language.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\change_currency.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\cart_empty.php" crc="1622830979"/>
+		<file name="C:\xampp\htdocs\ouslet\cart.php" crc="1619064538"/>
+		<file name="C:\xampp\htdocs\ouslet\blog.php" crc="1608840266"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_transaction_details.php" crc="1619492512"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_product_modal.php" crc="1621806194"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_product.php" crc="1623959682"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_last_minute.php" crc="1621273774"/>
+		<file name="C:\xampp\htdocs\ouslet\auction_checkout.php" crc="1621623200"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_vendor_submit_review.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_vendor_registration.php" crc="1621095212"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_update_profile.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_update_password.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_update_add_cart.php" crc="1617300182"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_submit_vendor_question.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_submit_review.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_submit_question.php" crc="1605983566"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_submit_order_auction.php" crc="1621570243"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_submit_order.php" crc="1621575789"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_stock_check.php" crc="1605983564"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_searched_product.php" crc="1618673658"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_return_product.php" crc="1617818314"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_return.php" crc="1617747344"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_registration_update.php" crc="1620844752"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_registration.php" crc="1621136886"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_post_bid.php" crc="1605983564"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_logout.php" crc="1622843218"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_login.php" crc="1617014082"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_get_value_product.php" crc="1618673558"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_forget_pass.php" crc="1605983564"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_delivery_verification.php" crc="1619792936"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_check_bidder.php" crc="1615829002"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_bid_retract.php" crc="1605983564"/>
+		<file name="C:\xampp\htdocs\ouslet\ajax_apply_coupon.php" crc="1605983564"/>
+		<file name="C:\xampp\htdocs\ouslet\about_us.php" crc="1624940428"/>
+		<file name="C:\xampp\htdocs\ouslet\a.php" crc="1605983564"/>
+	</filescache>
+</project>
